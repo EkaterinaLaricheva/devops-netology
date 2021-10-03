@@ -1,6 +1,6 @@
 # devops-netologyfirst line
-second Line
-
+second Lin
+FIX
 # Исключить все каталоги, кроме каталога terraform
 Исключить файл tfstate и файл следующий за ним. 
 Заполнить файл сбоев crash.log. 
